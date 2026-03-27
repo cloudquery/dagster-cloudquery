@@ -1,0 +1,4 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": ["github>cloudquery/.github//.github/renovate-python-default.json5"]
+}
